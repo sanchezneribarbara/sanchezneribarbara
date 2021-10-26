@@ -1,4 +1,4 @@
-About me
+About me <br />
 I am seeking a position where I use my interdisciplinary knowledge of biology and programming to successfully communicate with scientists, allowing us to solve computational-biostatistics challenges. Special interests in human health and diseases; genetics and plant nutrition. Masters in Computational Biology from Carnegie Mellon University and Entomology from Purdue University.
 
 Research experience in Machine Learning and Genetics. Programming skills in Python, SAS and R.
