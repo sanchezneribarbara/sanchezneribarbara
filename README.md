@@ -2,7 +2,7 @@
 - 👀 I’m interested in Biology, Programming and Machine Learning
 - 🌱 I’m currently learning on bettering my Python and R skills
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me bsanchez@alumni.cmu.edu
 
 <!---
 sanchezneribarbara/sanchezneribarbara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
