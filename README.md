@@ -12,5 +12,5 @@ As I prepared to return to my field, I obtained my SAS certification in June 202
 
 - 👋 Hi, I’m @sanchezneribarbara
 - 👀 I’m interested in Biology, Programming and Machine Learning
-- 🌱 I’m currently learning on bettering my Python and R skills
+- 🌱 I’m currently programming in Python and R
 - 📫 How to reach me bsanchez@alumni.cmu.edu
